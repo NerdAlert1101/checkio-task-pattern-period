@@ -1,0 +1,2 @@
+checkio-task-pattern-period
+===========================
